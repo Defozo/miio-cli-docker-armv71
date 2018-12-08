@@ -6,4 +6,4 @@ https://github.com/aholstenson/miio
 
 ### Example usage:
 
-`docker run defozo/miio-cli-docker-armv71 inspect 192.168.0.25`
+`docker run -it defozo/miio-cli-docker-armv71 inspect 192.168.0.25`
